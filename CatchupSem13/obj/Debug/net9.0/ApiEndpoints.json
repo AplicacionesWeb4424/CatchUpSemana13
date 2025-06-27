@@ -1,0 +1,31 @@
+[
+  {
+    "ContainingType": "CatchupSem13.News.Interface.REST.FavoriteSourceController",
+    "Method": "CreateFavoriteSource",
+    "RelativePath": "api/v1/favorite-source",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "CatchupSem13.News.Interface.Resource.CreateFavoriteSourceResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CatchupSem13.News.Interface.Resource.FavoriteSourceResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

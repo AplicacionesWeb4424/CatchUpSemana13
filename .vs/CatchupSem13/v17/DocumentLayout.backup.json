@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\application\\internal\\commandservices\\favoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\application\\internal\\commandservices\\favoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\infrastructure\\favoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\infrastructure\\favoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\repository\\ifavoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\repository\\ifavoritesourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\interface\\rest\\favoritesourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\interface\\rest\\favoritesourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\catchupsem13.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\catchupsem13.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\services\\ifavoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\services\\ifavoritesourcecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\infrastructure\\interfaces\\asp\\configuration\\kebabcaseroutenamingconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\infrastructure\\interfaces\\asp\\configuration\\kebabcaseroutenamingconvention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\infrastructure\\persistence\\efc\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\infrastructure\\persistence\\efc\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\interface\\transform\\favoritesourceresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\interface\\transform\\favoritesourceresourcefromentityassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\model\\commands\\createfavoritesourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\model\\commands\\createfavoritesourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\model\\queries\\getallfavoritesourcesbynewsapikeyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\model\\queries\\getallfavoritesourcesbynewsapikeyquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\model\\aggregates\\favoritesourceaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\model\\aggregates\\favoritesourceaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\news\\domain\\model\\aggregates\\favoritesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\news\\domain\\model\\aggregates\\favoritesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\catchupsem13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\catchupsem13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\infrastructure\\persistence\\efc\\configuration\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\infrastructure\\interfaces\\asp\\configuration\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\infrastructure\\interfaces\\asp\\configuration\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana13\\catchupsem13\\catchupsem13\\shared\\domain\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D1228-FDD8-479B-A62C-D38471E4CC18}|CatchupSem13\\CatchupSem13.csproj|solutionrelative:catchupsem13\\shared\\domain\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFavoriteSourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Repository\\IFavoriteSourceRepository.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Repository\\IFavoriteSourceRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Repository\\IFavoriteSourceRepository.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Repository\\IFavoriteSourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:47:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoriteSourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Infrastructure\\FavoriteSourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:07:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CatchupSem13\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CatchupSem13\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T00:24:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoriteSourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Interface\\REST\\FavoriteSourceController.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Interface\\REST\\FavoriteSourceController.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Interface\\REST\\FavoriteSourceController.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Interface\\REST\\FavoriteSourceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:00:53.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoriteSourceCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Application\\Internal\\CommandServices\\FavoriteSourceCommandService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:13:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KebabCaseRouteNamingConvention.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\KebabCaseRouteNamingConvention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:11:23.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Program.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Program.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Program.cs",
+              "RelativeToolTip": "CatchupSem13\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:24:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatchupSem13.http",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\CatchupSem13.http",
+              "RelativeDocumentMoniker": "CatchupSem13\\CatchupSem13.http",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\CatchupSem13.http",
+              "RelativeToolTip": "CatchupSem13\\CatchupSem13.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-27T02:21:30.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:10:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:34:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFavoriteSourceCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Services\\IFavoriteSourceCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:22:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoriteSourceResourceFromEntityAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Interface\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Interface\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Interface\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Interface\\Transform\\FavoriteSourceResourceFromEntityAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:00:26.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateFavoriteSourceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Commands\\CreateFavoriteSourceCommand.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Model\\Commands\\CreateFavoriteSourceCommand.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Commands\\CreateFavoriteSourceCommand.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Model\\Commands\\CreateFavoriteSourceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:58:46.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FavoriteSourceAudit.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSourceAudit.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSourceAudit.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSourceAudit.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSourceAudit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:56:25.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Model\\Queries\\GetAllFavoriteSourcesByNewsApiKeyQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:59:09.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavoriteSource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
+              "RelativeToolTip": "CatchupSem13\\News\\Domain\\Model\\Aggregates\\FavoriteSource.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA9wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:55:26.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CatchupSem13.csproj",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\CatchupSem13.csproj",
+              "RelativeDocumentMoniker": "CatchupSem13\\CatchupSem13.csproj",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\CatchupSem13.csproj",
+              "RelativeToolTip": "CatchupSem13\\CatchupSem13.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T00:25:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:33:54.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\Extensions\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:33:42.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Infrastructure\\Interfaces\\ASP\\Configuration\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:33:18.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:33:00.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "CatchupSem13\\Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana13\\CatchupSem13\\CatchupSem13\\Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "CatchupSem13\\Shared\\Domain\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:32:38.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
