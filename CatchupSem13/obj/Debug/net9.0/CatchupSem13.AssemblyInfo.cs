@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatchupSem13")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcbf06e617fad8be3b7b0b9d7cc1aa7e38c38b49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb4c278bb008da6183d330d92f5ebf9e6efd8225")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatchupSem13")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatchupSem13")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

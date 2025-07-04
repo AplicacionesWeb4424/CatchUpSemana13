@@ -1,7 +1,7 @@
 ﻿using CatchupSem13.News.Domain.Model.Aggregates;
-using CatchupSem13.News.Interface.Resource;
+using CatchupSem13.News.Interface.REST.Resource;
 
-namespace CatchupSem13.News.Interface.Transform
+namespace CatchupSem13.News.Interface.REST.Transform
 {
     public static class FavoriteSourceResourceFromEntityAssembler
     {

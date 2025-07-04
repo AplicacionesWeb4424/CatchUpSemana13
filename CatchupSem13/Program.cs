@@ -1,4 +1,5 @@
 using CatchupSem13.News.Application.Internal.CommandServices;
+using CatchupSem13.News.Application.Internal.QueryServices;
 using CatchupSem13.News.Domain.Repository;
 using CatchupSem13.News.Domain.Services;
 using CatchupSem13.News.Infrastructure;
@@ -53,6 +54,7 @@ else if (builder.Environment.IsProduction())
 // Shared Bounded Context Injection Configuration
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IFavoriteSourceCommandService, FavoriteSourceCommandService>();
+builder.Services.AddScoped<IFavoriteSourceQueryService, FavoriteSourceQueryService>();
 builder.Services.AddScoped<IFavoriteSourceRepository, FavoriteSourceRepository>();
 
 var app = builder.Build();

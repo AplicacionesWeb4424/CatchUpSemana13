@@ -9,13 +9,13 @@
     "Parameters": [
       {
         "Name": "resource",
-        "Type": "CatchupSem13.News.Interface.Resource.CreateFavoriteSourceResource",
+        "Type": "CatchupSem13.News.Interface.REST.Resource.CreateFavoriteSourceResource",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "CatchupSem13.News.Interface.Resource.FavoriteSourceResource",
+        "Type": "CatchupSem13.News.Interface.REST.Resource.FavoriteSourceResource",
         "MediaTypes": [
           "application/json"
         ],
@@ -25,6 +25,59 @@
         "Type": "System.Void",
         "MediaTypes": [],
         "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "CatchupSem13.News.Interface.REST.FavoriteSourceController",
+    "Method": "GetFavoriteSourceFromQuery",
+    "RelativePath": "api/v1/favorite-source",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsApiKey",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sourceId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CatchupSem13.News.Interface.REST.Resource.FavoriteSourceResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CatchupSem13.News.Interface.REST.FavoriteSourceController",
+    "Method": "GetFavoriteSourceById",
+    "RelativePath": "api/v1/favorite-source/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CatchupSem13.News.Interface.REST.Resource.FavoriteSourceResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
       }
     ]
   }

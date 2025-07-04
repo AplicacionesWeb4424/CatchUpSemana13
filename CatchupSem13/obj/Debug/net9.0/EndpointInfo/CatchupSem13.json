@@ -47,6 +47,74 @@
             "description": "The favorite source was not created"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "FavoriteSource"
+        ],
+        "summary": "Get a favorite source by Id and New Api Key ",
+        "description": "Get a favorite source with a given Source ID or New Api Key",
+        "operationId": "GetFavoriteSourceFromQuery",
+        "parameters": [
+          {
+            "name": "newsApiKey",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "sourceId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The favorite source was found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoriteSourceResource"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/favorite-source/{id}": {
+      "get": {
+        "tags": [
+          "FavoriteSource"
+        ],
+        "summary": "Get a favorite source by Id ",
+        "description": "Get a favorite source with a given Source ID",
+        "operationId": "GetFavoriteSourceById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The favorite source was found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FavoriteSourceResource"
+                }
+              }
+            }
+          }
+        }
       }
     }
   },

@@ -13,5 +13,19 @@ namespace CatchupSem13.News.Infrastructure
         {
             return await Context.Set<FavoriteSource>().FirstOrDefaultAsync(f => f.NewsApiKey == newsApiKey && f.SourceId == sourceId);
         }
+        public async Task<FavoriteSource> FindBySourceIdAsync(string sourceId)
+        {
+            return await Context.Set<FavoriteSource>().FirstOrDefaultAsync(f => f.SourceId == sourceId)
+                   ?? throw new KeyNotFoundException($"No favorite source found with Source ID: {sourceId}");
+        }
+
+        public async Task<FavoriteSource> FindByNewsApiKeyAsync(string NewsApiKey)
+        {
+            return await Context.Set<FavoriteSource>().FirstOrDefaultAsync(f => f.SourceId == NewsApiKey)
+                   ?? throw new KeyNotFoundException($"No favorite source found with Source ID: {NewsApiKey}");
+        }
+
+
+
     }
 }
